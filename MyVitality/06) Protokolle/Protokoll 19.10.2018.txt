@@ -1,0 +1,4 @@
+Protokoll 19.10.2018
+- Sequenzdiagramme kontrolliert
+- Sequenzdiagramme zusammen in eine Datei gelegt
+- EPK überprüfen

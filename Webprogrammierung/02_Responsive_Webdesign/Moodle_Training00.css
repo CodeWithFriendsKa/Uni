@@ -1,0 +1,30 @@
+    html {
+        font-family: sans-serif;
+        font-size: 12pt;
+    }
+
+    h1 {
+        color: crimson;
+    }
+
+    main {
+        text-align: center;
+    }
+@media (min-width: 992px) {
+  html {
+      font-family: sans-serif;
+      font-size: 12pt;
+      background-image: url(https://unsplash.it/1024/768/?random);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+  }
+
+  h1 {
+      color: crimson;
+  }
+
+  main {
+      text-align: center;
+  }
+}

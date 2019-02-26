@@ -1,0 +1,11 @@
+Person
+	ist ein	Kunde
+	ist ein	Mitarbeiter
+jede Person hat eine Adresse
+jede Person hat eine Zahlungsmethode
+jede Person kann eine Bankverbindung hinterlegen
+
+Artikel 
+
+jede Rechnung hat Artikel
+die Lagerhaltung umfasst verfügbare Artikel

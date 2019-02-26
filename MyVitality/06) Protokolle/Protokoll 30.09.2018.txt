@@ -1,0 +1,16 @@
+Protokoll 30.09.2018
+
+- Aufgaben für jeden festlegen
+	Welche Enitäten benötigt man bei den bisher gestallteten Prozessen?
+	--> Bsp: Produktkategorie - Produkt, Person - Mitarbeiter/Kunde, Datenbank
+	-> Diese werden in Klassendiagramme umgewandelt
+	
+
+- Prozesse die in WebProg abgebildet werden sollen:
+	Sven 		Benutzeranmeldung
+	Fabian 		Konfig TP
+	Moritz 		Waren checken / Zahlungsmethoden
+	Tamino 		Konfigurator
+	Benjamin 	Warenwirtschaftssimulation 
+	Sontiges	Einstiegsseite 
+			

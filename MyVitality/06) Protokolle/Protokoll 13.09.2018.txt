@@ -1,0 +1,17 @@
+- Brainstorming zum Thema
+	--> Fitnessapplikation
+	--> NEM & TP individuell empfehlen
+- Firmierung?	
+	--> MyVitality
+
+- Vorbereitung auf die Kurzpräsentation
+- Beispiel EPKs
+	- Warenbestellung
+	- Kunden anlegen
+	- Konfigurator
+	- Lieferungsprozess
+	- Beratungsprozess
+	- Trainingsplan erstellen
+	
+
+	

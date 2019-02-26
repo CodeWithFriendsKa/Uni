@@ -1,0 +1,21 @@
+Protokoll 20.09.2018
+
+- Festlegung der Aufgaben für morgen
+	- Welche Diagramme müssen alles gemacht werden?
+	- Datailtiefe (optional / nicht optional )
+	- Organigramm erstellen
+	- EPKs prüfen
+	- Ergebnisse zusammenführen
+
+
+- Probleme dem Business Architect 
+	Fertigstellen der Installation bei Tamino
+	Berechtigungen innerhalb von Aris verteilen
+- Kundenanmeldung & Support EPK [Sven EPK]
+- EPK Syntaxprobleme geklärt
+	Erstellung eines Beispiels im BusinessArchitect
+- Vorstellung Konfigurato [Tamino EPK]
+- Aufgaben
+	Liste der Nahrungsergänzungsmittel erstellen 
+	erste EPKs fertigstellen 
+

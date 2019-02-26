@@ -1,0 +1,15 @@
+/*Überschrift*/
+#content-area {
+    height: 140vw;
+}
+h1 {
+    font-family: Arial;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+}
+
+/*Tabelleneigenschaften*/
+.w3-responsive{
+    display: table;
+}

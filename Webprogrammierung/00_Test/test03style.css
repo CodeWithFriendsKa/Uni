@@ -1,0 +1,40 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+header,footer{
+  background-color: green;
+  border-style: solid;
+  border-color: red;
+  border-width: 5px;
+  color: white;
+}
+section{
+  border-style: solid;
+  border-color: red;
+  background-color: green;
+}
+
+h2{
+  color: white;
+}
+
+footer nav > ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer nav > ul > li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+a, a:visited {
+    color: rgb(246, 178, 188);
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}

@@ -1,0 +1,30 @@
+html{
+  font-family: serif;
+  font-size: 10pt;
+}
+main, h1{
+  padding: 0.5rem
+}
+section{
+  display: block;
+}
+#Bilder{
+  max-width: calc(100% - 1em);
+  margin: 0 1em 1em 0;
+}
+
+
+@media (min-width: 80em) {
+  section{
+    display: flex;
+  }
+  #Bilder{
+    display: inline-block;
+    max-width: calc(50% - 2em)
+    margin: 0 1em 1em 0;
+  }
+  html{
+    font-family: serif;
+    font-size: 2.3vmin
+  }
+}

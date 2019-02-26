@@ -1,0 +1,55 @@
+Protokoll:
+
+- Organigramm
+
+- Wertschöpfungskette
+
+- EKPs
+
+- Termine für Interviews
+ 
+Protokoll:
+
+- firmendesing wird erstellt (Styleguide)
+
+- Webprog projekt einbinden in fallstudie
+
+- Wertschöpfungskette erstellt
+
+EPK´s:
+
+- Kundenregistrierung (Sven)
+
+- Konfigurator (Tamino)
+	
+- Ausgangslevel (Tamino)
+	
+- Zielsetzung (Trainingsplan, Zielsetzunggewicht etc.) (Tamino)
+	
+- Konfiguratorkern (Tamino)
+	
+- API zu Trainingsapps (dev ) (Tamino)
+
+- Waren bestellen (Moritz)
+
+- Waren versenden (Moritz)
+
+- Trainingsplan consulting (B2C) (Fabian)
+
+- Wareneingang (Benni)
+
+- Produktion der Supps (Benni)
+
+- B2B Consulting (Fabian)
+
+- Support (Sven)
+
+- Marketing B2B, B2C Fabian
+
+- QA (Moritz)
+
+Termine für Interviews
+
+- Moritz sole um einen Nachmittagstermin bitten
+
+

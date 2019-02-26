@@ -1,0 +1,14 @@
+Ordner:
+	- Deckblatt
+	- PDF Dokument (Vorlesung)
+	- Fachkonzept
+	- Leistungsnachweis 
+	- Testprotokoll
+	--> Alle Dokumente im PDF Format in einer beigelegten CD
+	
+Moodle:
+	- Fachkonzept
+	- Testprotokoll
+	- Leistungsnachweis
+	- Link auf GitHub
+	--> Alle Dokumente als PDF Format 

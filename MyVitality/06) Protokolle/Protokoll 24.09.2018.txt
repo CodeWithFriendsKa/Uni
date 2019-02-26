@@ -1,0 +1,20 @@
+Protokoll 24.09.2018
+
+Zielsetzung:
+	- Überblick EPK durchgehen
+	- Einzelne EPKs durchgehen
+		- Fehlersuche	
+		- Syntax
+		- Verknüfungen
+	
+Ablauf:
+	- Überischts EPK
+		- Ergänzt
+		- Verbessert
+		- Verknüpfung der einzelnen EPKs
+	- Diskussion über Prozessspaltung:
+		- Zahlung und Zahlungeingang prüfen
+	
+	
+Ziele Freitag:
+	- Semantik & eEPK erweitern

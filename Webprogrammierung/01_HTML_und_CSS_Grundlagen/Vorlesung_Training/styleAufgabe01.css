@@ -1,0 +1,38 @@
+
+/*Kommentar*/
+footer{
+  display: flex;
+}
+#overview {
+  display: flex;
+}
+
+#overview section{
+  padding: 0.7 rem;
+}
+main h5 {
+  padding-bottom: 0.7 rem;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: green;
+}
+.libaries1 h5{
+  border-color: red;
+}
+.libaries2 h5{
+  border-color: yellow;
+}
+.libaries3 h5{
+  border-color: böue;
+}
+footer ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+footer li{
+  margin: 0;
+}
+footer h5 {
+  margin-bottom: 2 em;
+}
